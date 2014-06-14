@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE keyboard PUBLIC "" "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
-<!--Last edited by Ukelele version 2.2.8 on 2014-04-09 at 07:40 (EDT)-->
-<keyboard group="126" id="-29185" name="Monlam Bod-yig v3.00" maxout="3">
+<!--Last edited by Ukelele version 2.2.8 on 2014-06-13 at 22:29 (EDT)-->
+<keyboard group="126" id="-29185" name="Monlam Bod-yig v3.00_pema" maxout="3">
     <layouts>
         <layout first="0" last="0" modifiers="48" mapSet="312"/>
     </layouts>
@@ -454,7 +454,7 @@
             <!-- gap, 46 -->
             <key code="47" output="༐"/>
             <key code="48" output="&#x0009;"/>
-            <key code="49" output=" "/>
+            <key code="49" output="࿭"/>
             <key code="50" output="༸"/>
             <key code="51" output="&#x0008;"/>
             <key code="52" output="&#x0003;"/>
@@ -864,7 +864,7 @@
             <key code="46" output="&#x000D;"/>
             <!-- gap, 47 -->
             <key code="48" output="&#x0009;"/>
-            <key code="49" output="&#x0000;"/>
+            <key code="49" output="་"/>
             <!-- gap, 50 -->
             <key code="51" output="&#x0008;"/>
             <key code="52" output="&#x0003;"/>
@@ -916,14 +916,6 @@
         </keyMap>
     </keyMapSet>
     <actions>
-        <action id="་">
-            <when state="none" output="་"/>
-            <when state="s1" output=" "/>
-        </action>
-        <action id="྄">
-            <when state="none" output="དྷ"/>
-            <when state="mv2" output="ྡྷ"/>
-        </action>
         <action id="a1">
             <when state="none" output="ང"/>
             <when state="mv2" output="ྔ"/>
@@ -1094,7 +1086,7 @@
             <when state="s1" output="ླ"/>
         </action>
         <action id="a37">
-            <when state="none" next="mv2"/>
+            <when state="none" output="࿽"/>
             <when state="mv2" output="྄"/>
             <when state="s1" output="ྸ"/>
         </action>
@@ -1123,6 +1115,10 @@
         <action id="a43">
             <when state="none" output=" "/>
             <when state="s1" output="྄"/>
+        </action>
+        <action id="་">
+            <when state="none" output="࿝"/>
+            <when state="s1" output=" "/>
         </action>
         <action id="ཆ">
             <when state="none" output="ཆ"/>
@@ -1168,6 +1164,10 @@
             <when state="none" output="ཥ"/>
             <when state="mv2" output="ྵ"/>
             <when state="s1" output="ྵ"/>
+        </action>
+        <action id="྄">
+            <when state="none" output="དྷ"/>
+            <when state="mv2" output="ྡྷ"/>
         </action>
         <action id="ྭ">
             <when state="none" output="ྭ"/>
