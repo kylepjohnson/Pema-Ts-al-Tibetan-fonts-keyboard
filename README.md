@@ -12,8 +12,8 @@ To use, install the files 'Monlam Bod-yig v3.00_pema.icns' and 'Monlam Bod-yig v
 
 
 ```
-$ cp "Monlam Bod-yig v3.00_pema.icns" "/Library/Keyboard Layouts"/
-$ cp "Monlam Bod-yig v3.00_pema.keylayout" "/Library/Keyboard Layouts"/
+$ cp "Monlam Bod-yig v3.00_pema.icns" "/Library/Keyboard Layouts"
+$ cp "Monlam Bod-yig v3.00_pema.keylayout" "/Library/Keyboard Layouts"
 ```
 
 Then within System Preferences --> Keyboard --> + sign --> Others --> 'Monlam Bod-yig v3.00_pema'.
