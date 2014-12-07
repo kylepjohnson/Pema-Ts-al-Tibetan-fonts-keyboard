@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE keyboard PUBLIC "" "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
-<!--Last edited by Ukelele version 2.2.8 on 2014-06-13 at 22:29 (EDT)-->
+<!--Last edited by Ukelele version 2.2.8 on 2014-12-07 at 14:26 (EST)-->
 <keyboard group="126" id="-29185" name="Monlam Bod-yig v3.00_pema" maxout="3">
     <layouts>
         <layout first="0" last="0" modifiers="48" mapSet="312"/>
@@ -409,6 +409,7 @@
         <keyMap index="3">
             <key code="0" output="ཱ"/>
             <!-- gap, 1 -->
+            <key code="1" output="࿞"/>
             <key code="2" action="a13"/>
             <key code="3" output=""/>
             <key code="4" output=""/>
@@ -418,9 +419,11 @@
             <key code="8" output="卍"/>
             <key code="9" output="卐"/>
             <!-- gap, 10-11 -->
+            <key code="11" output="࿮"/>
             <key code="12" output="༕"/>
             <key code="13" output="༖"/>
             <!-- gap, 14 -->
+            <key code="14" output="࿾"/>
             <key code="15" output="ཪ"/>
             <!-- gap, 16 -->
             <key code="17" action="a11"/>
