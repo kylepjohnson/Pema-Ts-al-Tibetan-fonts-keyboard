@@ -6,7 +6,7 @@ Modifications were made using the open source software [Ukelele](http://scripts.
 
 Installation
 ------------
-To get, clone this repository or [download the file the compressed files](https://github.com/kylepjohnson/pema_tsal_tibetan_keyboard/raw/master/Monlam%20Bod-yig%20v3.00_pema.tar.gz).
+To get, clone this repository or download the `.tar.gz` file.
 
 To use, install the files 'Monlam Bod-yig v3.00_pema.icns' and 'Monlam Bod-yig v3.00_pema.keylayout' into the directory '/Library/Keyboard Layouts/'. Then within System Preferences --> Keyboard --> + sign --> Others --> 'Monlam Bod-yig v3.00_pema'.
 
